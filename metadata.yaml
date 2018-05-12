@@ -1,5 +1,5 @@
 _repo: The-Book-of-Old-English-Ballads_9405
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Mabie, Hamilton Wright
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1421'
     url: http://www.gutenberg.org/2009/agents/1421
     wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Edwards, George Wharton
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3048
     wikipedia: http://en.wikipedia.org/wiki/George_Wharton_Edwards
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9405#The-Book-of-Old-English-Ballads
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
